@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Abude_WageCalculator</string>
+    <string name="emptitle">Employee Salary Calculation System</string>
+    <string name="empname">Employee Name</string>
+    <string name="empsalary">Employee Salary</string>
+    <string name="emptax">Employee Tax</string>
+    <string name="empnsal">Employee Net Salary</string>
+
+    <string name="btnok">Ok</string>
+    <string name="btnclear">Clear</string>
+</resources>
